@@ -1,4 +1,4 @@
-# Socket Programming 3
+# Distributed Network Monitor
 
 ## Run the program
 
@@ -19,8 +19,8 @@
 
 - Add service checks in the JSON documents.
 - After starting and connecting nodes, you can see the config propagate in the JSON files.
-<br><br>
-Upon running the python app, the user is prompted with options to interact with the tool. <br>
+<br>
+- Upon running the python app, the user is prompted with options to interact with the tool. <br>
 ```
 't' - start monitoring services
 'a' - add a server to track
