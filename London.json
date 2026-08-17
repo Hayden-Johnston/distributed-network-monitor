@@ -1,0 +1,70 @@
+{
+    "London": [
+        [
+            "127.0.0.1",
+            5151
+        ],
+        {
+            "youtube": [
+                "2024-06-23 01:07:07",
+                "HTTPS",
+                "20",
+                "https://www.youtube.com",
+                null,
+                null,
+                "GOOD"
+            ]
+        }
+    ],
+    "LosAngeles": [
+        [
+            "127.0.0.1",
+            5151
+        ],
+        {
+            "youtube": [
+                "2024-06-23 01:00:41",
+                "HTTPS",
+                "20",
+                "https://www.youtube.com",
+                null,
+                null,
+                "GOOD"
+            ]
+        }
+    ],
+    "NewYork": [
+        [
+            "127.0.0.1",
+            5152
+        ],
+        {
+            "google dns": [
+                "2024-06-23 01:03:49",
+                "DNS",
+                "35",
+                "8.8.8.8",
+                "google.com",
+                "A",
+                "GOOD"
+            ]
+        }
+    ],
+    "Brisbane": [
+        [
+            "127.0.0.1",
+            5150
+        ],
+        {
+            "google": [
+                "2024-06-23 01:00:06",
+                "HTTP",
+                "20",
+                "http://www.google.com",
+                null,
+                null,
+                "GOOD"
+            ]
+        }
+    ]
+}
